@@ -27,7 +27,7 @@ To evaluate marketing channel and campaign performance, identify conversion tren
 ### 📁 Files Included
 - Power BI Dashboard (`.pbix`)
 - Dashboard Screenshot
-- Marketing Funnel Dataset (`.csv`)
+- Marketing Funnel Dataset (`.csv`)- Stimulated Dataset
 
 ### 💡 Project Outcome
 The dashboard provides an overview of marketing funnel performance, conversion rates, campaign spending, and revenue to support data-driven marketing decisions.
